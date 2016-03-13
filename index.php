@@ -14,11 +14,7 @@
  
 <!-- CSS Stylesheet -->
 <link rel="stylesheet" type="text/css" href="style.css" />
- 
-<!--[if lt IE 9]> 
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
- 
+  
 </head>
 <body>
  
@@ -53,7 +49,7 @@
 <ul class="info_2">
 <li class="phone">(469) 442-9284</li>
 <li class="email"><a href="mailto:amrimani91@gmail.com">amrimani91@gmail.com</a></li>
-<li class="site_url"><a href="http://p4.amrithamani.com" title="p4.amrithamani.com">p4.amrithamani.com</a></li>
+<!-- <li class="site_url"><a href="http://p4.amrithamani.com" title="p4.amrithamani.com">p4.amrithamani.com</a></li> -->
 </ul>
  
 </div>
@@ -141,10 +137,10 @@ ASAP with telecommuting from home.
 <dd>
  <ul>
  <li>Programming languages Java/C++ during undergrad – Has learnt the programming syntax and object oriented programming basics. Worked on projects for writing small algorithms.</li>
- <li>Dynamic Web applications in Harvard extension school - https://www.extension.harvard.edu/academics/courses/dynamic-web-applications/14291 </li>
+ <li>Dynamic Web applications in Harvard extension school -<a href= https://www.extension.harvard.edu/academics/courses/dynamic-web-applications/14291> Harvard extension school</a></li>
  <li>Learnt basics of PHP development using MVC framework Laravel, web server setup, GitHub version control and testing. Final project was to develop a database-driven dynamic web application.</li>
- <li>Course Projects source: https://github.com/Amrithamani?tab=repositories</li>
- <li>Course web site: http://p4.amrithamani.com/</li>
+ <li>Course Projects source:<a href = https://github.com/Amrithamani?tab=repositories>GitHub</a></li>
+ <li>Course web site:<a href = http://p4.amrithamani.com/>Link </a></li>
  <li>Learnt HTML, CSS and JavaScript online and applied these concepts in the coursework.</li>
  </ul>
  
