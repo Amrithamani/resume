@@ -32,7 +32,7 @@
  
 <!-- Begin Profile Image Section -->
 <div class="header_1">
-<img src="Amrithanew.jpg" width="250" height="250" alt="Amritha" />
+<img src="Amrithanew.jpg"  alt="Amritha" />
 </div>
 <!-- End Profile Image Section -->
  
