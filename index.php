@@ -8,7 +8,7 @@
 <title>Amritha Mani</title>
  
 <!-- Meta -->
-<meta name="description" content="A Passionate Web Programmer">
+<meta name="description" content="A Passionate Web Programmer/Software developer">
 <meta name="keywords" content="web,developer,designer,resume" />
 <meta name="author" content="Amritha Mani">
  
@@ -85,7 +85,7 @@ I am based in Boston, looking for web development opportunity. Have been learnin
 <dd>
 
 <section class="summary">
-ASAP with telecommuting from home.
+ASAP.
 </section>
 </dd>
 </dl>
@@ -99,6 +99,7 @@ ASAP with telecommuting from home.
  
  <section id="skills">
 <ul>
+<li>Java</li>
 <li>HTML</li>
 <li>CSS</li>
 <li>PHP</li>
@@ -122,6 +123,8 @@ ASAP with telecommuting from home.
  <li>Windows and UNIX scripting and knowledge of working on both OS.</li>  
  <li>Proficient in Windows based Microsoft applications like Word, Excel, Powerpoint etc.</li>
  <li>Basic knowledge of database table design and query.</li>
+ <li>Comfortable with Netbeans IDE for Java development.</li>
+ <li>Knowledge of object oriented concpets and programming.</li>
  </ul>
  </section>
  </dd>
