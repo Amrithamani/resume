@@ -78,20 +78,15 @@
 </header>
 <!-- End Header -->
  
-<div class="clear">&nbsp;</div>
+<div class="clear">&nbsp;</div>	
  
 <!-- Begin Profile Section -->
-<dl>
 
-<dd>
- 
-<section class="summary">
+<section id="about-me"> 
 I am Amritha Mani, a passionate web programmer with coursework and project experiences developing dynamic web sites. 
 I am based in Boston, looking for web development opportunity. Have been learning web development languages and have experiences developing course projects that span all layers of dynamic web development.
 </section>
  
-</dd>
-</dl>
 <!-- End Profile Section -->
 </div>
 

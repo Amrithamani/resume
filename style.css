@@ -49,6 +49,13 @@ a:active {
     margin: 25px 0px 25px 0px;
     border: #fff solid 2px;
 }
+
+#about-me {
+	font-size: 22px;
+    font-weight: bold;
+	font-family: Georgia;
+	font-style: italic;
+}
  
 .clear  {
     float: none;
@@ -78,10 +85,14 @@ a:active {
     float: left;
     width: 570px;
     margin: 40px 0px 0px 10px;
+
 }
  
 #contact-details .header_2 a {
     font-weight: normal;
+	font-size: 22px;
+    font-weight: bold;
+	font-family: Georgia;	
 }
  
 #contact-details  h1    {
@@ -214,7 +225,8 @@ p.time  {
 }
  
 p.summary   {
-    margin: 10px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+	
 	
 }
  
